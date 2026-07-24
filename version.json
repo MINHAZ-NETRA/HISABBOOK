@@ -1,7 +1,7 @@
 {
   "versionCode": 3,
   "versionName": "3.0",
-  "apkUrl": "https://github.com/MINHAZ-NETRA/HISABBOOK/releases/download/2.0/app-release.apk",
+  "apkUrl": "https://github.com/MINHAZ-NETRA/HISABBOOK/releases/latest/download/app-release.apk",
   "forceUpdate": true,
   "whatsNew": "Bug fixes and performance improvements"
 }
